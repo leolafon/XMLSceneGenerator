@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.dll",
+				"*.meta"
+			],
+			"path": "Assets\\Scripts"
+		}
+	],
+	"solution_file": "./XMLParser.sln"
+}

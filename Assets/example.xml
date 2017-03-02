@@ -1,0 +1,40 @@
+<Node>
+	<Name>noeud1</Name>
+	<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 5.0  0. 0. 1. 0. 0. 0. 0. 1.0</Transformation>
+	<Node>
+		<Name>noeud2</Name>
+		<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 -0.5  0. 0. 1. 0. 0. 0. 0. 1.0</Transformation>
+		<Node>
+			<Name>cube1</Name>
+			<Geometry>Cube</Geometry>
+			<Length>2</Length>
+			<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 0.0  0. 0. 1. 0. 0. 0. 0. 0.0</Transformation>
+		</Node>
+		<Node>
+			<Name>noeud3</Name>
+			<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 -0.5  0. 0. 1. 0. 0. 0. 0. 1.0</Transformation>
+			<Node>
+				<Name>ball1</Name>
+				<Geometry>Sphere</Geometry>
+				<Radius>0.25</Radius>
+				<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 0.0  0. 0. 1. 0. 0. 0. 0. 0.0</Transformation>
+			</Node>
+		</Node>
+	</Node>
+	<Node>
+		<Name>ball2</Name>
+		<Geometry>Sphere</Geometry>
+		<Radius>0.25</Radius>
+		<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 0.0  0. 0. 1. 0.5 0. 0. 0. 1.0</Transformation>
+	</Node>
+	<Node>
+		<Name>noeud4</Name>
+		<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 -0.5  0. 0. 1. 0. 0. 0. 0. 1.0</Transformation>
+		<Node>
+			<Name>cube2</Name>
+			<Geometry>Cube</Geometry>
+			<Length>1</Length>
+			<Transformation>1.0 0. 0. 0. 0.0 1.0 0.0 0.0  0. 0. 1. 0. 0. 0. 0. 0.0</Transformation>
+		</Node>
+	</Node>
+</Node>

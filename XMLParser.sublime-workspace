@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rendr",
+				"renderers\tRenderer[]"
+			],
+			[
+				"bound",
+				"boundingBox\tBoxCollider"
+			],
+			[
+				"Enca",
+				"Encapsulate(Bounds bounds)\tvoid"
+			],
+			[
+				"transfor",
+				"transformation\tTransform"
+			],
+			[
+				"local",
+				"localPosition\tVector3 { get; set; }"
+			],
+			[
+				"Exce",
+				"Exception(string message)\tException(string message)"
+			],
+			[
+				"C",
+				"Cube\tPrimitiveType"
+			],
+			[
+				"M",
+				"Matrix4x4()\tMatrix4x4()"
+			],
+			[
+				"float",
+				"floatArray\tfloat[]"
+			],
+			[
+				"trans",
+				"transformation\tstring"
+			],
+			[
+				"StringTo",
+				"StringToFloatArray(string transformation)\tfloat[]"
+			],
+			[
+				"is",
+				"IsNullOrEmpty(string value)\tbool"
+			],
+			[
+				"strin",
+				"stringArray\t?[]"
+			],
+			[
+				"Inn",
+				"InnerText\tstring { get; set; }"
+			],
+			[
+				"Selec",
+				"SelectSingleNode(string xpath)\tXmlNode"
+			],
+			[
+				"XmlAt",
+				"XmlAttributeCollection\tXmlAttributeCollection"
+			],
+			[
+				"te",
+				"GetType()\tType"
+			],
+			[
+				"Scene",
+				"SceneManager\tSceneManager"
+			],
+			[
+				"loca",
+				"localPosition\tVector3 { get; set; }"
+			],
+			[
+				"start",
+				"startYPos\tfloat"
+			],
+			[
+				"pos",
+				"localPosition\tVector3 { get; set; }"
+			],
+			[
+				"VEctor",
+				"Vector3\tVector3"
+			],
+			[
+				"VEc",
+				"Vector3\tVector3"
+			],
+			[
+				"Uity",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"Do",
+				"down\tVector3 { get; }"
+			],
+			[
+				"Get",
+				"GetTextureRaycast(Vector3 pos, Vector3 dir, float dist)\tTexture"
+			],
+			[
+				"Pre",
+				"PreviewController(Transform obj)\tvoid"
+			],
+			[
+				"Hide",
+				"HideObjectPreview()\tvoid"
+			],
+			[
+				"pre",
+				"previewedObject\tGameObject"
+			],
+			[
+				"GetK",
+				"GetKeyDown(string name)\tbool"
+			],
+			[
+				"Highli",
+				"HighlightObject(Transform obj)\tvoid"
+			],
+			[
+				"pref",
+				"prefabNames\tstring[]"
+			],
+			[
+				"rota",
+				"rotationY\tfloat"
+			],
+			[
+				"objec",
+				"objectViewCamera\tCamera"
+			],
+			[
+				"RotateAroun",
+				"RotateAroundLocal(Vector3 axis, float angle)\tvoid"
+			],
+			[
+				"GetA",
+				"GetAxis(string axisName)\tfloat"
+			],
+			[
+				"obj",
+				"objectViewCamera\tCamera"
+			],
+			[
+				"objce",
+				"objectViewImage\tGameObject"
+			],
+			[
+				"Instanc",
+				"Instantiate(Object original, Vector3 position, Quaternion rotation)\tObject"
+			],
+			[
+				"K",
+				"KeyCode\tKeyCode"
+			],
+			[
+				"camera",
+				"cameraTransform\tTransform"
+			],
+			[
+				"Transf",
+				"TransformDirection(Vector3 direction)\tVector3"
+			],
+			[
+				"Dra",
+				"DrawRay(Vector3 start, Vector3 dir)\tvoid"
+			],
+			[
+				"score",
+				"scoretext\tText"
+			],
+			[
+				"GetComponent",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"Collider",
+				"Collider2D\tCollider2D"
+			],
+			[
+				"Serial",
+				"SerializeField\t[class]"
+			],
+			[
+				"detailPro",
+				"detailPrototypes\tTerrainData.*"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "XMLParser.sublime-project",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/XMLParser.cs",
+			"settings":
+			{
+				"buffer_size": 5732,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/leola/Downloads/TestsTechniquesRecrutement/example.xml",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "INSTALL",
+		"selected_items":
+		[
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Unity Projects/XMLParser/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/leola/Downloads/TestsTechniquesRecrutement/example.xml",
+		"/E/Unity Projects/TRONCLUB/Assets/Trail_Collision/TronClub.cs",
+		"/E/Unity Projects/TRONCLUB/Assets/Scripts/BikeController.cs",
+		"/E/Unity Projects/TRONCLUB/Assets/Models/Scripts/BikeController.cs",
+		"/E/Unity Projects/TRONCLUB/TRONCLUB.sublime-project",
+		"/E/Unity Projects/TRONCLUB/Assets/Models/BikeController.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Beyond The Cliff DEV.sublime-project",
+		"/C/Users/leola/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/Highlight.shader",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/BlurOptimized.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/HighlightsFX.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/PostEffectsBase.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/MobileBlur.shader",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/TerrainSurface.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/TextureHelpers.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+		"/E/Unity Projects/021-test/Assets/Scripts/PlayerController.cs",
+		"/E/Unity Projects/Beyond The Cliff DEV/Assets/Scripts/TestTerrainSurface.cs",
+		"/C/Users/leola/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"E:\\Unity Projects\\TRONCLUB\\Assets\\Scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SetTransformFromMatrix",
+			"_transform",
+			"transform",
+			"BikeController",
+			"fpsController",
+			"cameraTransform",
+			"PostEffectsBase",
+			"transform",
+			"objectRenderer",
+			"m_occluders",
+			"SetOccluderObjects",
+			"CreateMaterials",
+			"CreateBuffers",
+			"RenderOccluders",
+			"OnRenderImage",
+			"objectRenderer",
+			"GetMainTextureIndex",
+			"GetTextureMix",
+			"m_CharacterController",
+			"m_IsWalking",
+			"m_Input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "XMLParser.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/XMLParser.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1228,
+								1228
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1252,1263": "'createScene' should start with an upper case letter. (Rule 'Methods')",
+								"2126,2146": "'calculateBoundingBox' should start with an upper case letter. (Rule 'Methods')",
+								"2517,2523": "Use 'var' keyword",
+								"2606,2614": "Local variable 'renderer' hides property 'UnityEngine.Component.renderer'",
+								"4367,4375": "Parameter can be IComparable",
+								"5520,5530": "'System.String.StartsWith' is culture-aware and missing a StringComparison argument",
+								"5595,5603": "'System.String.EndsWith' is culture-aware and missing a StringComparison argument"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/leola/Downloads/TestsTechniquesRecrutement/example.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 161.0
+	},
+	"pinned_build_system": "",
+	"project": "XMLParser.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"Scripts\\TestTerrainSurface.cs"
+			],
+			[
+				"tex",
+				"Scripts\\TextureHelpers.cs"
+			],
+			[
+				"terr",
+				"Scripts\\TerrainSurface.cs"
+			],
+			[
+				"fir",
+				"Scripts\\FirstPersonController.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
